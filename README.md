@@ -1,9 +1,7 @@
 # Wi-5-Smart-AP-Selection
 This repository includes the source codes of the smart AP selection algorithm developed by LJMU.
 
-Some instructions related to the execution of smart AP selection code are provided below.
-
-Instructions:
+Some instructions related to the execution of smart AP selection code are provided below:
 
 In the file initParameters, the following input parameter can be selected:
 
