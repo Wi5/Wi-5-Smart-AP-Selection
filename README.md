@@ -1,4 +1,4 @@
-# Wi-5-Cooperative-Algorithms
+# Wi-5-Smart-AP-Selection
 This repository includes the source codes of the smart AP selection algorithm developed by LJMU.
 
 There are some instructions related to smart AP selection functionality are provided below.
